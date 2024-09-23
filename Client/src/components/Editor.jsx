@@ -14,7 +14,7 @@ const Editor = ({
 
       {/* Title Input */}
       <div className="mb-4">
-        <label className="block text-gray-700 mb-2">Title</label>
+        <label className="block text-gray-700 mb-2">Title </label>
         <input
           type="text"
           value={formData.title}
